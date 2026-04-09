@@ -18,6 +18,7 @@ main{
     margin: 0 auto;
 }
 
+<<<<<<< HEAD:css/style.css
 .cabecalho {
     background-color: oklch(37.9% 0.146 265.522);
 }
@@ -27,4 +28,13 @@ main{
     display: flex;
     list-style: none;
     gap: 14px;
+=======
+#cabecalho {
+    background-color: #b45dff;
+}
+
+#menu ul li {
+    list-style: none;
+    display: inline;
+>>>>>>> cb403fbd2ea70c86e6e0167115c1abfccb1ba695:rm571692/css/style.css
 }

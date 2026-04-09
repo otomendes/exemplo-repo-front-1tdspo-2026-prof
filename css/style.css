@@ -46,6 +46,20 @@ body{
 
 
 
+#cabecalho{
+     background-color: #1c2b3c
+}
+
+#menu ul{
+   list-style:none;
+   
+}
+
+#menu ul li{
+    display: inline-block;
+    width: 20%;
+}
+
 main{
     max-width: 800px;
     /* margin-top: 0;

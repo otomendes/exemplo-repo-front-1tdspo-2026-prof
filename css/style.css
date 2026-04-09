@@ -17,3 +17,11 @@ main{
     /* margin: 0 auto 0 auto; */
     margin: 0 auto;
 }
+
+#cabecalho{
+     background-color: #1c2b3c
+}
+
+#menu{
+    list-style-type: none;
+}

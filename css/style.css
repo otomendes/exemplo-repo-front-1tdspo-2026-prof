@@ -8,6 +8,23 @@ body{
     padding: 20px;
 }
 
+#cabecalho{
+    background-color: #1c2b3c;
+}
+
+#menu{
+    list-style: none;
+}
+
+#menu ul{
+    list-style-type: none;
+}
+
+#menu ul li{
+    display: inline-block;
+    width: 20%;
+}
+
 main{
     max-width: 800px;
     /* margin-top: 0;
@@ -18,10 +35,3 @@ main{
     margin: 0 auto;
 }
 
-#cabecalho{
-    background-color: #1c2b3c;
-}
-
-#menu{
-    list-style: none;
-}

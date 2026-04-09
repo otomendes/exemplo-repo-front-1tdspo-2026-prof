@@ -17,3 +17,10 @@ main{
     /* margin: 0 auto 0 auto; */
     margin: 0 auto;
 }
+#cabecalho{
+    background-color: #67eedc;
+    color:#1a1b18
+}
+#menu{
+    color: #d40404;
+}

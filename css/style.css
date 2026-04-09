@@ -21,3 +21,8 @@ main{
 #cabecalho {
     background-color: #b45dff;
 }
+
+#menu ul li {
+    list-style: none;
+    display: inline;
+}
